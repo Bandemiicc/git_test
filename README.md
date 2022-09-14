@@ -1,2 +1,3 @@
 # git_test
-First GitHub project?
+My first GitHub project
+Hello Odin!
